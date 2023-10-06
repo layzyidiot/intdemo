@@ -6,3 +6,5 @@ local t = {
   2
   2
 }
+
+return t
